@@ -1,1 +1,1 @@
-# Data-Wrangling-of-French-ThesesProject
+# Data Wrangling of French Theses Project
